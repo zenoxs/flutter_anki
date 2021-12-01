@@ -1,3 +1,5 @@
+[![Test](https://github.com/zenoxs/flutter_anki/actions/workflows/test.yml/badge.svg)](https://github.com/zenoxs/flutter_anki/actions/workflows/test.yml)
+
 # flutter_anki
 
 A new Flutter project.
